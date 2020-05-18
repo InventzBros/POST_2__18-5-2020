@@ -1,0 +1,61 @@
+
+=========================================
+HTML is the standard markup language for Web pages.
+
+With HTML you can create a website.
+
+HTML stands for Hyper Text Markup Language.
+HTML describes the structure of a Web page
+HTML consists of a series of elements
+HTML elements tell the browser how to display content.
+=========================================
+
+
+
+
+
+=========================================
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Page Title</title>
+</head>
+
+<body>
+	<h1>Lorem Ipslum Donor Title</h1>
+
+	<p>
+		lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua.
+	</p>
+</body>
+</html>
+
+- The <!DOCTYPE html> declaration defines a document to be HTML5
+- The <html> element is the root element of an HTML page
+- The <head> element contains meta information about the document
+- The <title> element specifies a title for the document
+- The <body> element contains the noticeable page content
+- The <h1> element defines a large heading
+- The <p> element defines a paragraph
+=========================================
+
+
+
+
+
+=========================================
+HTML tags are element names enclosed by angle brackets.
+
+e.g
+<tagname> code goes here... </tagname>
+
+
+- HTML tags commonly come in twos like <h1> and </h1>.
+
+- The first tag in a pair is the start tag,
+  the second tag is the end tag.
+
+- The end tag is written like the start tag,
+  but with a forward slash inserted before the tag name.
+=========================================
