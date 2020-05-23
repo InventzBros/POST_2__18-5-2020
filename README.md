@@ -1,6 +1,6 @@
-# POST_2__18-5-2020
+# Understanding HTML5
 
-Understanding HTML5 post
+Understanding HTML5 Post
 
 Instagram - [@InventBros](https://instagram.com/InventzBros)
 
