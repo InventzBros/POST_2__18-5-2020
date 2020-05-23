@@ -1,7 +1,5 @@
 # Understanding HTML5
 
-Understanding HTML5 Post
-
 Instagram - [@InventzBros](https://instagram.com/InventzBros)
 
 Facebook - [@InventzBros](https://facebook.com/InventzBros)
